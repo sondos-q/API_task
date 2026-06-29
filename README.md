@@ -1,4 +1,4 @@
-# 🌤 WeatherBot
+# 🌤 WeatherBot 
 
 A conversational weather assistant powered by Meta's **Llama 3.3 70B** model via the HuggingFace Inference API. Ask about the weather anywhere in the world and get natural, helpful replies with practical tips.
 
